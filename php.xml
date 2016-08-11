@@ -11,8 +11,8 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="sftp://palaz7@eatitalianplaybocce.com:22/usr/bin/php" id="da171000-4245-41af-a79a-868ba0f9f67f" name="EatitalianPlayBocce PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="c846ae10-58d6-4443-a589-f383cac3697a" WEB_SERVER_CONFIG_NAME="eatitalianplaybocce.com" HOST="eatitalianplaybocce.com" PORT="22" ANONYMOUS="false" USERNAME="palaz7" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/palaz7/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="vagrant:///Users/jeffreyloll/Websites/eatitalianplaybocce.com/usr/bin/php" id="da171000-4245-41af-a79a-868ba0f9f67f" name="EatitalianPlayBocce PHP 7" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="$USER_HOME$/Websites/eatitalianplaybocce.com" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/palaz7/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="/usr/bin/php" id="0da826ba-0d7f-4825-a3f2-eb2ff26e14a2" name="PHP" debugger_id="php.debugger.XDebug" />
     </interpreters>
