@@ -7,7 +7,7 @@
       <webServer id="40014dc1-e7b1-4eea-922b-b6f514c231ec" name="eatitalianplaybocce.com" url="http://eatitalianplaybocce.com">
         <fileTransfer host="eatitalianplaybocce.com" port="22" rootFolder="/home/palaz7/web/eatitalianplaybocce.com" accessType="SFTP" password="dfe8dfc5dfc9dfc9dfcfdfc8dfcbdfc6dfc6df9bdf9adf9b" username="palaz7">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
