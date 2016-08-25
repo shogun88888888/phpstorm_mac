@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gz" type="ARCHIVE" />
-      <mapping pattern="Vagrantfile" type="Bash" />
+      <mapping pattern="aliases" type="Bash" />
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
