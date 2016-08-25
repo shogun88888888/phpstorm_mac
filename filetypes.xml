@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gz" type="ARCHIVE" />
+      <mapping pattern="aliases" type="Bash" />
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
@@ -18,6 +19,7 @@
       <mapping pattern="sshpk-sign" type="JavaScript" />
       <mapping pattern="marked" type="JavaScript" />
       <mapping pattern="uuid" type="JavaScript" />
+      <mapping pattern="strip-indent" type="JavaScript" />
       <mapping pattern="image-size" type="JavaScript" />
       <mapping pattern="rimraf" type="JavaScript" />
       <mapping pattern="errno" type="JavaScript" />
@@ -42,7 +44,6 @@
       <mapping pattern="semver" type="JavaScript" />
       <mapping pattern="lessc" type="JavaScript" />
       <mapping pattern="detect-indent" type="JavaScript" />
-      <mapping pattern="strip-indent" type="JavaScript" />
       <mapping pattern="esparse" type="JavaScript" />
       <mapping pattern="nopt" type="JavaScript" />
       <mapping pattern="cdl" type="JavaScript" />
