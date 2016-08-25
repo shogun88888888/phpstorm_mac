@@ -5,7 +5,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="d7f5551e-9858-4301-8e7d-4cbfec7c3967" name="palazzodibocce.com" url="http://palazzodibocce.com">
-        <fileTransfer host="palazzodibocce.com" port="22" rootFolder="/home/palaz8/" accessType="SFTP" password="dfe8dfc5dfc9dfc9dfcfdfc8dfcbdfc6dfc6df9bdf9adf9b" username="palaz8">
+        <fileTransfer host="palazzodibocce.com" port="22" rootFolder="/home/palaz8/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -13,7 +13,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a4cd10e8-fc54-476d-9b26-c519d2fb5d8d" name="palazzoleagues.com" url="http://palazzoleagues.com">
-        <fileTransfer host="palazzoleagues.com" port="22" rootFolder="/home/palaz9" accessType="SFTP" password="dfe8dfc5dfc9dfc9dfcfdfc8dfcbdfc6dfc6df9bdf9adf9b" username="palaz9">
+        <fileTransfer host="palazzoleagues.com" port="22" rootFolder="/home/palaz9" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -21,7 +21,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a68a2a6f-5ba9-4ae0-9a63-cd4c799c1572" name="eatitalianplaybocce.com global" url="http://eatitalianplaybocce.com">
-        <fileTransfer host="eatitalianplaybocce.com" port="22" rootFolder="/home/palaz7/web/eatitalianplaybocce.com" accessType="SFTP" password="dfe8dfc5dfc9dfc9dfcfdfc8dfcbdfc6dfc6df9bdf9adf9b" username="palaz7">
+        <fileTransfer host="eatitalianplaybocce.com" port="22" rootFolder="/home/palaz7/web/eatitalianplaybocce.com" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -29,5 +29,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABkFAlcbf5FsBCFvhE3MtDUrhobsukerlmwomZtMxIMT7VyYC8Hapzd33s1X/xxDiHYmLt3fXhcyOZqcPZQ71TnHmxJvFFBFZb1mcQXBJZc0HAdT6hXLzqipapZ7fwEydeeH6GAQJwo/VHj6sJyXPLvzSY2LBBOG4PPsteLf+Sv0uwfbOFFvT8morNBts7CoNYLiYEX0usicQCpRuXGcCL4GH5kG4Zon9h+SYDeGk9bzEpaJsl6h1vu30WtqGXCv687aTPCNBml+SSPv8htHgxm0MA/riX1cDiWg3OgHYm6+4yJ3eb51gAa0a9T5oQyYGwCJt/BxzuzJsNe3BEvRp70wcyaPpUuRlj9DOG3LnM3aahExLnWkFfkys80izyKSPPpECyduwfcICqE4PXBbfmjdq3R9y10VBAnoVKyDCNPDGTvka+5blwQwfB4K+JKXMd3rZRxCDLkxlqh+k8pH4s+njX2k8SkR3ZHqF8RsfiP3eWrjIhtFAjZpety47GC89sCrdLBr57UZjxbTUvIzgAJgvIcZUpfILJzWReNbdWGBTU</data>
   </component>
 </application>
