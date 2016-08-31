@@ -7,7 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../public_html - [palazzodibocce.com]'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -15,10 +15,10 @@
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
       <mask>*.php</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
