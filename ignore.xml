@@ -29,6 +29,21 @@
 *.iml
 out
 gen</template>
+      <template name=".gitignore">.env
+.env.testing
+.vagrant
+/.idea/
+/bower_components
+/node_modules
+/public/build
+/public/css
+/public/fonts
+/public/js
+/public/storage
+/vendor
+homestead.json
+homestead.yaml
+Vagrantfile</template>
     </userTemplates>
   </component>
 </application>
