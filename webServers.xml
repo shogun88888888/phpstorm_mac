@@ -28,9 +28,12 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="cacbf305-f56b-4492-8fe9-ea9429856560" name="homestead" url="http://homestead.app">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABkAgVYKTdG/P2MSnQO7fYcs9AdHfGmblzUVcas8rmGMPylIltG/P6BzokKJH6tIDccOO/QhbfVyL+LubiWcjhP58YB2cy0dxjIur5pMZ9VNExbC4vSZgO5mPhNZ21EaxYt8ZBnTz2u4fjmarOyvvr2UCZXJp43rOdM3jT+gOJFYsHitfk7rQ62+0SDwpRG5zrx8A/NO+3sQKiMJJWr7WkusP4vavvT6pgKau2exkMIsxjL0gWo1H4I4974o+qjOzq6gmwCH9RDrDNGNM5S5AsrOeVqvvEnd5MEeIJ9BPT9b3+ijMliNwgyemvCOkluLVVyW4gMcHlk/nmin6/ni7xgjf4+N9KkFzZnvfwa872F3ULXWHiC2Cl5rQHSHsEYfVn4L0EBVAaNjYj6aoc96w5dlsIYp006iTeTVXofksJ6atHlb9RlgZRuTXSLqx+KkxqFwxVD81BZp7XL/3yFtatWIIV42+vxvLhMgI2bEIOxhfASUi8lFb0jUCKdEa51lGviYTm0JRw6ABeFFMabDsbgLAoFFcQoQzC2X6KkBjgPlMH</data>
+    <data>AAABkHMfUsdoXSCqm14oY86+jTYxNbgZLBlWorPOwjDzX1n3QVQ3p+nH9sEONyNBQglKmRtdjAhqwA31GG+WfZ/+MvvCiqQVY5oP4rVYQrXqRh1whZHjbOpG1+Lkg9zZI6BOMlR4EKKYpIDFn1f/WkuzJ6kjUreysxgksVwpk1nElXe5WF/0rZXEY9vurQHjoPAnEGSbqNAAFOgPsspWD17LJN4cisHDfob5nSWcBmDZh2LCUtXq+o0roFdJ/xP0gozixjZtLEmf89+64/UiiggLp5Y78qUOuTg9+E3nOSllM7oRa355DLE16QweMebeQgV8fqne207shQUrnbk1yfx7Bfjdd/Fx3Y67l9SibginHV/UOjerKM8xxYWE7nFmQ3qH727nj0+QxkYYeq/cY3WwVI0vj7U9rauR7lgEiZnUUit1EQGF0gO2IOCLp9SZKNIIMLkhTLz+0BL+PiHyucXPezy1GsVBQJUK04TsWn0sJ/93lnD66MAV+F5a8oyXruMndCIlavfDonB4zTNwJzH/EgrzUlnBchd82pZF6GcmjS6g</data>
   </component>
 </application>
