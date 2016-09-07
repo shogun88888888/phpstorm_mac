@@ -2,16 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gz" type="ARCHIVE" />
-      <mapping pattern="test" type="Bash" />
-      <mapping pattern="aliases" type="Bash" />
-      <mapping pattern="Vagrantfile" type="Bash" />
       <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
@@ -23,6 +20,7 @@
       <mapping pattern="detect-indent" type="JavaScript" />
       <mapping pattern="errno" type="JavaScript" />
       <mapping pattern="cdl" type="JavaScript" />
+      <mapping pattern="which" type="JavaScript" />
       <mapping pattern="rimraf" type="JavaScript" />
       <mapping pattern="cleancss" type="JavaScript" />
       <mapping pattern="loose-envify" type="JavaScript" />
@@ -31,7 +29,6 @@
       <mapping pattern="nopt" type="JavaScript" />
       <mapping pattern="uuid" type="JavaScript" />
       <mapping pattern="babylon" type="JavaScript" />
-      <mapping pattern="which" type="JavaScript" />
       <mapping pattern="user-home" type="JavaScript" />
       <mapping pattern="sshpk-verify" type="JavaScript" />
       <mapping pattern="har-validator" type="JavaScript" />
@@ -46,12 +43,12 @@
       <mapping pattern="mime" type="JavaScript" />
       <mapping pattern="esparse" type="JavaScript" />
       <mapping pattern="in-install" type="JavaScript" />
-      <mapping pattern="dateformat" type="JavaScript" />
       <mapping pattern="sassgraph" type="JavaScript" />
       <mapping pattern="node-sass" type="JavaScript" />
       <mapping pattern="in-publish" type="JavaScript" />
       <mapping pattern="marked" type="JavaScript" />
       <mapping pattern="uglifyjs" type="JavaScript" />
+      <mapping pattern="dateformat" type="JavaScript" />
       <mapping pattern="mkdirp" type="JavaScript" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern="composer" type="PHP" />
