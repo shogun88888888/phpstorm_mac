@@ -12,7 +12,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="C:/xampp/php/php.exe" id="0da826ba-0d7f-4825-a3f2-eb2ff26e14a2" name="Windows PHP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/bin/php" id="99c8c2e8-aa86-471e-a02e-28f2397c184c" name="Mac PHP 7" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php70/7.0.9/bin/php" id="99c8c2e8-aa86-471e-a02e-28f2397c184c" name="Mac PHP 7" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
