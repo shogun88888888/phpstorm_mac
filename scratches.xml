@@ -1,8 +1,5 @@
 <application>
   <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.blade.php" value="Blade" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.php" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/sudo.sh" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/user.sh" value="Bash" />
   </component>
 </application>
