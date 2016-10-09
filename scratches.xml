@@ -1,7 +1,0 @@
-<application>
-  <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.blade.php" value="Blade" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.blade_1.php" value="Blade" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.php" value="PHP" />
-  </component>
-</application>
