@@ -9,4 +9,9 @@
     </options>
     <keywords ignore_case="false" />
   </highlighting>
+  <extensionMap>
+    <mapping pattern=".env.testing" />
+    <mapping pattern=".env.example" />
+    <mapping pattern=".env" />
+  </extensionMap>
 </filetype>
