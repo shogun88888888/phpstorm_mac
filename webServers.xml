@@ -55,9 +55,17 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c4affbf8-1a38-4784-b635-59e3d2ce61ca" name="192.168.100.190" url="http://192.168.100.190">
+        <fileTransfer host="192.168.100.190" port="22" rootFolder="/home/palaz7/web/eatitalianplaybocce.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAC4Nzjh7EYpu82qpTcKLy/7kehnjgx9bNwKmdggN5ffrgwBNdCsys1lNNBMA04QmVH3zaZftq2nD3HWQ9Kd0Y0cnYOYid/KNHYTnuYqQjIV9FvRQQHOjNrGEZgfHzLbCPCUp11361TVDIIXycTKmPNVJ9gtAX2fuyFiRMwpBKfdeD7FfR2bbcuH91Kczvh3bTAsNNZecQm3bAu8hoDrYTwed1OiMHF6usAYF1cNA0Ny1Nz+8asxL5U5uFkfQ1Xvx71TaJnP+CvGPf877hJQB1Ru6adtdyo0yGEG/tdDgvtyWaLRnh4ZD2QcrloZcaPg06shAUo+43Ya0fCxaGKS4Tai7IUX2jnNUuQY2vsooIsd2gHe3TwyPRKqyYVjqHKwOorAQJXZXiIZxAnDpjuhU6QCED4PiSZXfU+YrteQonHIkEFig/5tbrtwWmdMb6UTELsAqswtYvIvo6OVDjkn9scjpSoduR5nwaC+L2/IAiuAWRo4rQj2mmqbCFDYIVdhexkGMzi5R4ReUQ4Sf2RT0mYJh8pPjbs3RsOxHOhE2nehMvhPys9rqo0Q3+1u0BeTxTBD9FTJiGpeFAot7G05JFXWgfxmO684mJbMDqrCbpn54WC3NKGDA6/c+f2iOljQMHxAVJNeb6Japq/cdEvd/SWVKfGk8jvOpiUaRr3CsS+QEpKXqQb29HcFdLZaTOTdXWndb8oQZUflDHf4gGAC59Ty1Vb7CdxBjv4P1gXu8WNrUZHuAgFa1es7rE7uanaEVNbHGq3HDxKVvGXhwgUTzD75P83dQ/XSrcBgtCwp93fwpYTUeeVzx+bov9gym1+ninLz9YYkN1XrR7mGw4pdLrruofdX1S4YFk7OyX0syEm5/HgtE/M202s6SI6RXdM9jnZGZZvTVSlvWc97pwyyWAU41e+kXdX2DtEvHlNboex4kSZa5M5vKs7wO3EkMJPiZGgZrD4rP/X9nM1iVxKz5/nCu+nFxQNbGXgW8nbHgoK9HnL</data>
+    <data>AAADUC0Mekz2Bn0sGMn4eQo8BDP4bV61s9PlvIXI/3XkhSWL+EIf3iulcQmC9+l+r2NeT7KfD9CM5GnrbSB460HPXTy5+kRtGCK7gwm8lEU9yBXdyqxrEmarM8iYjLr3/zUbPxBmYEA8SXMLflsvyHg+Vqk0q70do+AzGLLrX5lzR2oWwxFNpJWbiSH6Yd1jC5qpuIzvUUlXPSFwnv2DFXJBg2QlfxWTNpQrVsCVZL0fU8Esd3EGdesr6UuBDTOlTDt9yNenPgy+UY6FLC7RSR2Ar0+xGbqjC8OuToiyvBkJcK3fdeh+Bk/Sb6XJp07cSXftYGplgaV4FE28JOZ0MerGxYFofQYp5lwgaleRUMUz2EEqeWn2l2I8appuZdCD0QrfQJHvsIlRtvf7FutuqlkBmIRm7IF4t8ufNo3w+l+Wv+UmDO6OkiTGzZ24L0H3ItAnqBp4X72Ne0Dj96hekCeNZ1pNl2DkresWKGuBJZ6mx/W93FgS383bcLAAE0EtQzoKvo5DjbUygo6d+MOHQUGSEQHvj55xLNy8TZoIb+hJf1SO0VFsgk2U8lDJpF1tyDD1TsWrCa9qW8cd1AZABbz5/QMaQ6Ns+CaDvJZIYA0pwYrVjZepOoYtMr9Uk3r5kT/HU5ZwrX6UZ8Hgw00DQR1RY8JFsIiY9XkT4vbJFedURbFT2iUeppZbG5WKOaQsHPyNVd2uLADaRTmwHNYudP/SxuDeAoYeEq9CCD/x1XqNQGx3vfzdCeC0wUjtAXET3fTVgyfktXx/hLcN93Z50jYZ84fut58i5ejy9tvnjnMXAUzxaw/G0qS69u+Gx8QntpLdSicWcbq0Ay53WBx9mEHALwNX2AtX7QlKNJxeGHSsYgs0j3zpL6PEkQKZhdq3eGEJZZCodvSsfaQhTPQLeyPATUDXUwXXweIKiyQCloQaDW9Wj/oSI8h1YylyyFUf0wdNHZUh/OjboRPNxLNzfVl02/JWrCNrrFcBBqBDrUMK3bgSyPNPMACcg//FOR1tPkGBlvkRDnyC3QqmQYfWvJrqfTwW59MZsz/V5iIqwaXxSSRpaFPaxyJMQOQw+88ZoX2tqmxv3XDY+YJZwWYlpHM9vlRXk74qIhu6nYC92YGO3ixYwJxsU8IZDG4PU8m+j/n8Ew==</data>
   </component>
 </application>
