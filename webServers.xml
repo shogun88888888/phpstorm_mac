@@ -55,8 +55,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="c4affbf8-1a38-4784-b635-59e3d2ce61ca" name="eatitalianplaybocce private" url="http://192.168.100.190compo">
-        <fileTransfer host="192.168.100.190compo" port="22" rootFolder="/home/palaz7/web/eatitalianplaybocce.com" accessType="SFTP">
+      <webServer id="c4affbf8-1a38-4784-b635-59e3d2ce61ca" name="eatitalianplaybocce private" url="http://192.168.100.190">
+        <fileTransfer host="192.168.100.190" port="22" rootFolder="/home/palaz7/web/eatitalianplaybocce.com" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
           </advancedOptions>
@@ -64,8 +64,5 @@
         </fileTransfer>
       </webServer>
     </option>
-  </component>
-  <component name="webServersAuthStorage">
-    <data>AAADUOagBVJ+7dA9my0TYUVfhyZkaWcMi5UItvfw9n8v+2YyVoPmFMkUmLahblXW2KmDVhDk3zx9dxb+AJAESfbKUEguW5idfCg03m5ak0miI3DckCEwYiRRd+IJIwF4JX4KcpUOLiXXMI3gOEqhOhRxk+3j5r4PAh7ArS/rcMjA9JeSPK+C2FR1J4n5spFmmy+rEaadmgvIzWbu244cmMnQDPcEqwJ/hXcJDVkNM0z8EuL5CkPksdtm36v/gboW2JxZqOWkSEZSq8z1IyhBRIflADjL0yUqBJgoLgA4z0QJUcysnJzKXWtHJEMcAVklppRFow722nWoyxcJ18Gv1buouIvUpoVl8KYSDjEwnptG7HM5XvJFRZRMi1q57XcnFaaXNURlqQb9cT3+j7sSPtgDd116w4w0hJJ9bfghPTnH3xwltP9E7zqW6v1Skg21HJuwapo7ieeuGkdJiz2aJZoXeXruBCUdP8D3chRCeDfhWBZ2VEFzG44N3wtjD3dAflqzJppYDZjzy0whZNThI13hFKBy7A3IhJzWSl4dzhggI+x7dLn10SIrFH2jHp8r9RHE7RgHc9ru8ZJHWWFp4PnO33aketg37+6RI+76WyOey2WaWTxO8C7R5Y8Jxs88v2F9ZgGjZVTnEw55LXNUVOxfZRuCx+RIyCHNix0yzQCy8H37RT0Dwg7eEjsJJDhd7tz+IWuHtgqWEUhhUk3c7VDBLxNOqoGjP5r4HjvKQXvxmiVfHqzzU1ROj1shk+O6PRWLCQnoxNNHoTSZDrBBLrECmAKZduSE43bwbdD5cFYGG1pGsNhfXRNY7cHdeTBi29c6MkQXdmMdxmCv8pjDla/biKikecTvJHNaz02dTjvwTzeKnh2J1nrmyxmacP0ahPfBkX5Cm8Ri+lgXdDOQXjab+1zxgMn4W4Tui592nWlpwrFvNjsxgKYnHedRmRcE7+uE30FKn2dA0PIP0iNbIHvXe2KBneQ67TFpq8VjCpdyBJ60JnnYKT4wOmEOl97ra0h/xwkJAjpCqZS2OiV42NOjHrZU+AdF5E2JZPmwh5ugtfp6hoQDY9F2ZbM7dU7Ih0DA319yUVK3r4pMgQIFCko1DOc2zOP5DFvUFaSPPwuZlAmbQB7Rm0iJO1Y+KSQPPMSjww==</data>
   </component>
 </application>
