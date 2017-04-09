@@ -1,8 +1,1 @@
-<keymap version="1" name="Jeff Map" parent="Mac OS X 10.5+">
-  <action id="StringManipulation.RemoveNewLinesAction">
-    <keyboard-shortcut first-keystroke="shift a" />
-  </action>
-  <action id="osmedile.intellij.stringmanip.RemoveEmptyLinesAction">
-    <keyboard-shortcut first-keystroke="shift q" />
-  </action>
-</keymap>
+<keymap version="1" name="Jeff Map" parent="Mac OS X 10.5+" />
