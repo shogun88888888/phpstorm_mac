@@ -17,4 +17,10 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="osmedile.intellij.stringmanip.RemoveEmptyLinesAction">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.TrimAllSpacesAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
