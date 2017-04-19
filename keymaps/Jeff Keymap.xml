@@ -1,4 +1,11 @@
 <keymap version="1" name="Jeff Keymap" parent="Mac OS X 10.5+">
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="StringManipulation.RemoveNewLinesAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
