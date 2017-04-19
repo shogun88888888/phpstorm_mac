@@ -24,6 +24,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="s" second-keystroke="s" />
+  </action>
   <action id="osmedile.intellij.stringmanip.RemoveEmptyLinesAction">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
