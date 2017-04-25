@@ -25,7 +25,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
-    <keyboard-shortcut first-keystroke="alt q" />
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="osmedile.intellij.stringmanip.RemoveEmptyLinesAction">
     <keyboard-shortcut first-keystroke="alt d" />
