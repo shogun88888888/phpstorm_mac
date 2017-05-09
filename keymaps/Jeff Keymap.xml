@@ -1,10 +1,4 @@
 <keymap version="1" name="Jeff Keymap" parent="Mac OS X 10.5+">
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="meta right" />
-    <keyboard-shortcut first-keystroke="ctrl e" />
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
