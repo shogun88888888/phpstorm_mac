@@ -1,4 +1,7 @@
 <keymap version="1" name="Jeff Keymap" parent="Mac OS X 10.5+">
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
