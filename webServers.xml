@@ -55,7 +55,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="96b8edc6-6809-4c12-8b66-8dd63c9edd3c" name="performancezone1 private" url="http://10.1.10.191">
+      <webServer id="96b8edc6-6809-4c12-8b66-8dd63c9edd3c" name="performancezone1 private" url="http://10.1.10.191:8000/">
         <fileTransfer host="10.1.10.191" port="22" rootFolder="/home/palaz7" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
