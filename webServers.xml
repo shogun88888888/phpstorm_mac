@@ -63,8 +63,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="edbf7fe4-82dc-486d-8701-ee28e58acf46" name="Performancezone-Live" url="http://160.153.52.71">
-        <fileTransfer host="160.153.52.71" port="22" rootFolder="/home/performancezone1" accessType="SFTP">
+      <webServer id="edbf7fe4-82dc-486d-8701-ee28e58acf46" name="Performancezone-Live" url="http://performancezone1.com">
+        <fileTransfer host="performancezone1.com" port="22" rootFolder="/home/performancezone1" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
           </advancedOptions>
