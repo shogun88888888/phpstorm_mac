@@ -56,6 +56,7 @@
       <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="script" type="PLAIN_TEXT" />
       <removed_mapping ext="jad" type="PLAIN_TEXT" />
       <removed_mapping ext="htaccess" type="PLAIN_TEXT" />
       <removed_mapping ext="mf" type="PLAIN_TEXT" />
