@@ -39,8 +39,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="c4affbf8-1a38-4784-b635-59e3d2ce61ca" name="eatitalianplaybocce private" url="http://10.1.10.191">
-        <fileTransfer host="10.1.10.191" port="22" rootFolder="/home/palaz7" accessType="SFTP">
+      <webServer id="c4affbf8-1a38-4784-b635-59e3d2ce61ca" name="eatitalianplaybocce private" url="http://10.1.10.190">
+        <fileTransfer host="10.1.10.190" port="22" rootFolder="/home/palaz7" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
           </advancedOptions>
