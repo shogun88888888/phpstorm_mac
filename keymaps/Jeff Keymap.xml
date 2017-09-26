@@ -3,7 +3,7 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
     <keyboard-shortcut first-keystroke="ctrl e" />
-    <keyboard-shortcut first-keystroke="a" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
