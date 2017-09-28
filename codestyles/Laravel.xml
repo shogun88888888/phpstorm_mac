@@ -11,6 +11,7 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,form,h1,h2,h3,h4,h5,h6,p" />
   <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="a" />
   <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,a" />
@@ -106,6 +107,6 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-    <option name="WRAP_ON_TYPING" value="0" />
+    <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
 </code_scheme>
