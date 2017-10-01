@@ -11,12 +11,14 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,form,h1,h2,h3,h4,h5,h6,p" />
   <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="a" />
   <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,a" />
   <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
