@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
+  <action id="EscapeEntities">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
