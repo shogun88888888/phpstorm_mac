@@ -19,14 +19,11 @@
       <mapping pattern="sshpk-sign" type="JavaScript" />
       <mapping pattern="notify" type="JavaScript" />
       <mapping pattern="uuid" type="JavaScript" />
-      <mapping pattern="strip-indent" type="JavaScript" />
       <mapping pattern="image-size" type="JavaScript" />
       <mapping pattern="sshpk-conv" type="JavaScript" />
-      <mapping pattern="sassgraph" type="JavaScript" />
       <mapping pattern="rimraf" type="JavaScript" />
       <mapping pattern="errno" type="JavaScript" />
       <mapping pattern="not-in-publish" type="JavaScript" />
-      <mapping pattern="sshpk-verify" type="JavaScript" />
       <mapping pattern="browserslist" type="JavaScript" />
       <mapping pattern="cleancss" type="JavaScript" />
       <mapping pattern="marked" type="JavaScript" />
@@ -39,21 +36,23 @@
       <mapping pattern="dateformat" type="JavaScript" />
       <mapping pattern="which" type="JavaScript" />
       <mapping pattern="mkdirp" type="JavaScript" />
+      <mapping pattern="sassgraph" type="JavaScript" />
       <mapping pattern="in-publish" type="JavaScript" />
       <mapping pattern="semver" type="JavaScript" />
       <mapping pattern="lessc" type="JavaScript" />
       <mapping pattern="detect-indent" type="JavaScript" />
+      <mapping pattern="strip-indent" type="JavaScript" />
       <mapping pattern="babylon" type="JavaScript" />
       <mapping pattern="esparse" type="JavaScript" />
       <mapping pattern="nopt" type="JavaScript" />
       <mapping pattern="cdl" type="JavaScript" />
       <mapping pattern="mime" type="JavaScript" />
+      <mapping pattern="sshpk-verify" type="JavaScript" />
       <mapping pattern="in-install" type="JavaScript" />
       <mapping pattern="loose-envify" type="JavaScript" />
       <mapping pattern="uglifyjs" type="JavaScript" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern="composer" type="PHP" />
-      <removed_mapping ext="php" type="PHP" />
       <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
@@ -61,7 +60,6 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="script" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <removed_mapping ext="jad" type="PLAIN_TEXT" />
       <removed_mapping ext="htaccess" type="PLAIN_TEXT" />
