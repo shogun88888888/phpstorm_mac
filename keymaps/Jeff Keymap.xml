@@ -2,10 +2,6 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
-  <action id="EditorCodeBlockEnd">
-    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
-    <keyboard-shortcut first-keystroke="alt semicolon" />
-  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
