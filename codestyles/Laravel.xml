@@ -4,6 +4,11 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </value>
   </option>
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+  </CssCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
