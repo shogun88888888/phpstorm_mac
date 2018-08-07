@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern=".env" type=".env file" />
       <mapping ext="gz" type="ARCHIVE" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
@@ -13,7 +12,6 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern=".env" type="JSON" />
       <mapping pattern="json5" type="JSON" />
       <mapping ext="lock" type="JSON" />
       <mapping pattern="sshpk-sign" type="JavaScript" />
