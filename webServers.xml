@@ -40,15 +40,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="c4affbf8-1a38-4784-b635-59e3d2ce61ca" name="eatitalianplaybocce private" url="http://10.1.10.190">
-        <fileTransfer host="10.1.10.190" port="22" rootFolder="/home/palaz7" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="4fa821cc-58ae-4059-b599-2d875f48b6f5" name="eatitalianplaybocce public" url="http://eatitalianplaybocce.com">
-        <fileTransfer host="eatitalianplaybocce.com" port="22" rootFolder="/home/palaz7" accessType="SFTP">
+        <fileTransfer host="10.1.10.190" port="22" rootFolder="/home/palaz7/eatitalian" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
           </advancedOptions>
@@ -67,6 +59,14 @@
         <fileTransfer host="performancezone1.com" port="22" rootFolder="/home/performancezone1" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="adf15ae7-676b-4d95-a812-e9c714c75b6d" name="eatitalianplaybocce public" url="http://eatitalianplaybocce.com">
+        <fileTransfer host="eatitalianplaybocce.com" port="22" rootFolder="/home/palaz7/eatitalian" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
