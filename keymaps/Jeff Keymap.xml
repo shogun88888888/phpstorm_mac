@@ -2,18 +2,32 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="meta semicolon" />
+    <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="EditorStartNewLine" />
   <action id="EscapeEntities">
     <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="NewScratchBuffer">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
+  <action id="OpenElementInNewWindow" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
