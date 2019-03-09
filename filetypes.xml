@@ -12,6 +12,7 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="json5" type="JSON" />
       <mapping ext="lock" type="JSON" />
       <mapping pattern="sshpk-sign" type="JavaScript" />
@@ -41,13 +42,13 @@
       <mapping pattern="image-size" type="JavaScript" />
       <mapping pattern="babylon" type="JavaScript" />
       <mapping pattern="esparse" type="JavaScript" />
-      <mapping pattern="nopt" type="JavaScript" />
       <mapping pattern="cdl" type="JavaScript" />
       <mapping pattern="mime" type="JavaScript" />
       <mapping pattern="har-validator" type="JavaScript" />
       <mapping pattern="in-install" type="JavaScript" />
       <mapping pattern="loose-envify" type="JavaScript" />
       <mapping pattern="errno" type="JavaScript" />
+      <mapping pattern="nopt" type="JavaScript" />
       <mapping pattern="uglifyjs" type="JavaScript" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern="composer" type="PHP" />
