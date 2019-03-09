@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/evercode1/sample-project.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shogun88888888/laravel" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Palazzo Box/Palazzo di Bocce Dropbox/Palazzo dibocce/websites" />
