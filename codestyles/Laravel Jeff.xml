@@ -1,33 +1,9 @@
-<code_scheme name="Laravel" version="173">
+<code_scheme name="Laravel Jeff" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="USE_TAB_CHARACTER" value="true" />
     </value>
   </option>
-  <DBN-PSQL>
-    <case-options enabled="true">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false" />
-  </DBN-PSQL>
-  <DBN-SQL>
-    <case-options enabled="true">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false">
-      <option name="STATEMENT_SPACING" value="one_line" />
-      <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
-      <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
-    </formatting-settings>
-  </DBN-SQL>
   <PHPCodeStyleSettings>
     <option name="CONCAT_SPACES" value="false" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
@@ -81,6 +57,7 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
