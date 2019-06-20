@@ -1,0 +1,6 @@
+<application>
+  <component name="OpenInTerminalSettings">
+    <option name="terminalCommand" value="open -a Terminal" />
+    <option name="terminalCommandOptions" value="" />
+  </component>
+</application>
