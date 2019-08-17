@@ -53,6 +53,8 @@
       <mapping pattern="strip-indent" type="JavaScript" />
       <mapping pattern="composer" type="PHP" />
       <mapping pattern="artisan" type="PHP" />
+      <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
